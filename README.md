@@ -1,4 +1,4 @@
-### assert .1 + .2 == 0.3
+### assert .1 + .2 == .3
 
 <!--
 **i80287/i80287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
